@@ -9,3 +9,6 @@ home of the nidnogg game.
 * Pulp Fiction
 * Bob Ross
 * Vulfpeck
+* Radiohead
+* Chrono Trigger
+* Final Fantasy
