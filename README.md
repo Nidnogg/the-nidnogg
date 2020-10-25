@@ -11,4 +11,4 @@ home of the nidnogg game.
 * Vulfpeck
 * Radiohead
 * Chrono Trigger
-* Final Fantasy
+* Final Fantasy - Smart Sample Tracks
